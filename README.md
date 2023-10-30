@@ -1,2 +1,2 @@
 # ImageProcessor
-A creative class project for WashU CSE330
+A fullstack creative class project for WashU CSE330
