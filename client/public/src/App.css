@@ -1,0 +1,73 @@
+.App{
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background-color: rgb(222, 233, 255);
+}
+
+.title{
+  padding: 15px;
+  width:100%;
+position:fixed;
+background-color: rgb(134, 149, 177);
+border:solid rgb(127, 175, 253) 2px;
+}
+
+.title-inside{
+margin:10px;
+color:white;
+}
+
+.image{
+  position:fixed;
+  top:15%;
+  right:8%;
+  max-height: 80%;
+  max-width: 40%;
+  margin-top:15px;
+  overflow: scroll;
+  border-left: solid  rgb(134, 149, 177) px;
+}
+.login{
+  position:fixed;
+  top:15%;
+  left:3%;
+  max-height: 80%;
+  max-width: 50%;
+  margin-top: 10px;
+  overflow: scroll;
+}
+
+button{
+  margin: 10px;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  display:inline-block;
+  background-color: rgb(134, 149, 177);
+  padding:10px;
+  border-radius: 5%;
+  border:0;
+  color:white;
+  font-weight: 600;
+}
+.upload{
+  padding:15px;
+  margin:10px;
+  border:solid rgb(134, 149, 177) 2px;
+}
+label{
+  margin:5px;
+}
+.label,.text{
+  display:inline-block;
+  white-space: pre-wrap;
+  margin-top:5px;
+  margin-bottom: 10px;
+  margin-right:10px;
+}
+.similar{
+  display:block;
+}
+.output{
+  display:block;
+}
+strong{
+  display:block;
+}
