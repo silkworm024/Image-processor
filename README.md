@@ -1,4 +1,4 @@
-# ImageProcessor
+# Image Processor
 A fullstack creative class project for WashU CSE330
 It's a web application that analyzes elements in uploaded images with the AWS Rekognition model and supports a user-managed image library. The frontend is built with React.js, and the backend is built with Express.
 
