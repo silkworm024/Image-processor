@@ -9,7 +9,7 @@ It's a web application that analyzes elements in uploaded images with the AWS Re
 4. Run npm start in both server and client folder
 
 ```
-git clone https://github.com/silkworm024/ImageProcessor.git
+git clone https://github.com/silkworm024/Image-processor.git
 npm install express
 cd client
 npm start
